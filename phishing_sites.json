@@ -1,8 +1,20 @@
 {
-  "version": 2,
+  "version": 3,
   "tolerance": 1,
-  "fuzzylist": ["unisat.io", "mempool.space", "fractalbitcoin.io"],
-  "whitelist": ["unisat.io", "mempool.space", "fractalbitcoin.io","monadscore.xyz","faucet.wiki","yzailabs.com","ansem-world.vercel.app"],
+  "fuzzylist": [
+    "unisat.io",
+    "mempool.space",
+    "fractalbitcoin.io"
+  ],
+  "whitelist": [
+    "unisat.io",
+    "mempool.space",
+    "fractalbitcoin.io",
+    "monadscore.xyz",
+    "faucet.wiki",
+    "yzailabs.com",
+    "ansem-world.vercel.app"
+  ],
   "blacklist": [
     "unisat.be",
     "unissat.io",
@@ -31,8 +43,7 @@
     "pizzaswap.app",
     "ghaeapost-gh.ink/GH",
     "app.fractalbrc.store",
-    "app.fractalbrc.store",
     "unisat.repaironchain.com",
-    "unisatos.com/"
+    "unisatos.com"
   ]
 }
